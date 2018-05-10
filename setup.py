@@ -9,7 +9,7 @@ setup(
     license='BSD',
     author='cielavenir',
     author_email='cielartisan@gmail.com',
-    py_modules=['pytest_forcefail'],
+    py_modules=['pytest_teamcity_logblock'],
     entry_points={'pytest11': ['forcefail = pytest_teamcity_logblock']},
     zip_safe=False,
     include_package_data=True,
