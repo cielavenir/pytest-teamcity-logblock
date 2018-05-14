@@ -1,3 +1,5 @@
 # pytest-teamcity-logblock
 
-Binary distribution: https://pypi.org/project/pytest-teamcity-logblock/ (tentative)
+This plugin introduces a block structure in teamcity build log if the output is not captured.
+
+Binary distribution: https://pypi.org/project/pytest-teamcity-logblock/
