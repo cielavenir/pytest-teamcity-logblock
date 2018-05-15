@@ -4,7 +4,7 @@ setup(
     name='pytest-teamcity-logblock',
     description='py.test plugin to introduce block structure in teamcity build log, if output is not captured',
     long_description=open("README.md").read(),
-    version='0.0.0.1',
+    version='0.0.0.2',
     url='https://github.com/cielavenir/pytest-teamcity-logblock',
     license='BSD',
     author='cielavenir',
